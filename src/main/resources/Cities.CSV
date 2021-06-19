@@ -1,0 +1,15 @@
+id,Cid,Name,Capital,surfaceArea,population
+1,1,Cairo,Yes,3085,12230350
+2,1,Giza,No,1580,4028062
+3,1,Ismailia,No,210,422411
+4,1,PortSaid,No,1351,1607353
+5,2,Khartoum,Yes,1010,639598
+6,2,Kassala,No,36710,490000
+7,3,Berlin,Yes,891,3292365
+8,3,Hamburg,No,755,1706696
+9,3,Munich,No,310,1348335
+10,4,Paris,Yes,105,10562000
+11,4,Lyon,No,48,1598000
+12,4,Marseille-Aix,No,240,1398000
+13,5,Tokyo,Yes,2194,9237000
+14,5,Osaka,No,223,2691000
